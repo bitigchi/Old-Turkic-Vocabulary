@@ -1,4 +1,4 @@
-*This is a project mirror for the original database hosted [here](https://www.dolthub.com/repositories/bitigchi/old-turkic-vocabulary). Pull requests are welcome from here as well.*
+*This is a project mirror for the original database hosted [here](https://www.dolthub.com/repositories/bitigchi/old-turkic-vocabulary).*
 
 # Old Turkic Vocabulary
 
@@ -10,7 +10,7 @@ To contribute, fork the Dolt database from the link above, and send pull request
 
 | ot_word | ot_transliteration | tr_translation | en_translation | word_class |
 | ------- | ------------------ | -------------- | -------------- | ---------- |
-| 𐰉𐰆𐰑𐰣    | bodUn              | boylar         | tribes         | noun       |
+| 𐰉𐰆𐰑𐰣    | bodUn              | Boylar         | Tribes         | noun       |
 
 ## Typing Guide
 
